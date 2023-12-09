@@ -8,6 +8,7 @@ echo "Given numbers are $num1 and $num2"
 if test $num1 -gt $num2
 then
    echo "$num1 is greater"
+   
 fi
 
 if test $num1 -lt $num2
