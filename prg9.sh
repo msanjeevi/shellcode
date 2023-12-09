@@ -25,5 +25,6 @@ echo "Now value of x is $x"
 echo " the value of --x (known as pre decrement) is $((--x))"
 echo "Now value of x is $x"
 echo " the vlaue of x-- ( known as post increment ) is $((x--))"
+#the below will print the x value
 echo "Now value of x is $x"
 #End
