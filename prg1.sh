@@ -3,6 +3,7 @@
 #Now the program begins
 echo "Enter a value"
 read val
+#read from the keyboard
 echo "The given value is $val"
 read -p "Enter a value of x: " x
 echo 'The value of $x' is $x
