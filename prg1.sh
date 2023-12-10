@@ -2,6 +2,7 @@
 #!/bin/bash #This tells the shell script to user /bin/bash shell to interpreted the below lines. 
 #Now the program begins
 echo "Enter a value"
+#echo is to print out the string
 read val
 #read from the keyboard
 echo "The given value is $val"
