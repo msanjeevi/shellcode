@@ -3,8 +3,9 @@
 #
 #The following is a read statement.
 read -p "Enater first number:" num1
-read -p "Enter second number:" num4
+read -p "Enter second number:" num3
 echo "Given numbers are $num1 and $num2"
+#Helo there... this line is added by the trainer
 if test $num1 -gt $num2
 then
    echo "$num1 is greater"
