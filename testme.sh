@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 echo "Helo world!!"
-echo "You are in ${hostnmae)"
+echo "You are in $(hostname)"
 echo "The date is $(date)"
+echo "I corrected the changes"
 #End
